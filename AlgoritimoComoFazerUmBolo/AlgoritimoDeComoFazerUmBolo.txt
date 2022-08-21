@@ -1,0 +1,99 @@
+ALGORITIMO DE COMO FAZER UM BOLO
+1.	DECIDIR QUAL SERÁ A RECEITA UTILIZADA?
+	1.1	Receita de bolo de chocolate
+2.	QUAIS SAO OS INGREDIENTES NECESSÁRIOS?
+	2.1	PARA MASSA SERÁ NECESSÁRIO:
+		2.1.1	4 ovos
+		2.1.2	4 colheres (sopa) de chocolate em pó
+		2.1.3	2 colheres (sopa) de manteiga
+		2.1.4	3 xícaras (chá) de farinha de trigo
+		2.1.5	2 xícaras (chá) de açúcar
+		2.1.6	2 colheres (sopa) de fermento
+		2.1.7	1 xícara (chá) de leite
+		2.1.8	1 colher (sopa) de manteiga para untar a forma
+3.	VERIFICAR SE TENHO TODOS OS INGREDIENTES NECESSÁRIOS NAS QUANTIDADES NECESSÁRIAS!
+	3.1	Caso não tenha não poderei fazer o bolo
+4.	QUAIS UTENSILIOS PRECISO PARA FAZER O BOLO
+	4.1	PARA PREPARAR A MASSA SERÁ NECESSÁRIO:
+		4.1.1	1 liquidificador
+		4.1.2	1 espátula
+		4.1.3	1 forma alta
+		4.1.4	1 forno (elétrico ou à gás)
+		4.1.5	1 pote para quebrar os ovos
+		4.1.6	ao menos uma xícara
+		4.1.7	ao menos uma colher de sopa
+		4.1.8	ao menos uma colher de chá
+	4.2 UTENSILIOS DISPENSAVEIS MAS QUE PODEM AJUDAR NA RECEITA
+		4.2.1	luvas para alta temperatura
+5.	VERIFICAR SE TENHO TODOS OS UTENSILIOS NECESSÁRIOS NAS QUANTIDADES NECESSÁRIAS!
+	5.1	Caso não tenha não poderei fazer o bolo
+6.	NO CASO DE TER TODOS OS INGREDIENTES E UTENSILIOS INICIAR O PREPARO DO BOLO:
+	6.1	Deixar de facil acesso todos os ingredientes e utensilios
+	6.2	Pré-aquecer o forno (180 ºC) 
+	6.3	Pegar o copo do liquidificador
+	6.4	Adicione os ovos ao copo do liquidificador (4 vezes)
+		6.4.1	pegar o pote para quebrar os ovos
+		6.4.2	pegar um ovo
+		6.4.3	quebrar o ovo no pote
+		6.4.4	se o ovo não estiver estragado adicione o ovo no liquidificador
+		6.4.5	se o ovo estiver estragado descartar e lavar o pote
+			6.4.5.1	verificar se tenho ovo sobressalhente e repetir o processo
+			6.4.5.2	caso não tenha não poderei fazer o bolo
+	6.5	Adicione o chocolate em pó (4 vezes)
+		6.5.1	pegue 1 colher de sopa
+		6.5.2	pegue o chocolate em pó
+		6.5.3	adicione uma colher de sopa de chocolate em pó no liquidificador
+	6.6	Adicione a manteiga (2 vezes)
+		6.6.1	pegue 1 colher de sopa
+		6.6.2	pegue o pote de manteiga
+		6.6.3	adicione uma colher de sopa de manteiga no liquidificador
+	6.7	Adicione a farinha de trigo (3 vezes)
+		6.7.1	pegue uma xícara de chá
+		6.7.2 	pegue o trigo
+		6.7.3	adicione uma xícara de chá de trigo no liquidificador
+	6.8	Adicione o açucar (2 vezes)
+		6.8.1	pegue uma xícara de chá
+		6.8.2 	pegue o açucar
+		6.7.3	adicione uma xícara de chá de açucar no liquidificador
+	6.9	Adicione o leite
+		6.8.1	pegue uma xícara de chá
+		6.8.2 	pegue o letite
+		6.7.3	adicione uma xícara de chá de leite no liquidificador
+	6.10	Bata os ingredientes por 5 minutos
+		6.10.1	pegue a parte de baixo do liquidificador
+		6.10.2	acople o copo do liquidificador
+		6.10.3	lique-o na tomada
+		6.10.4	certifique-se que o mesmo está tampado adequadamente
+		6.10.5	aperte o botao de ligar
+		6.10.6	aguardde 5 minbutos
+		6.10.7	aperte o botao de desligar
+	6.11	Adicione o fermento (2 vezes)
+		6.11.1	destampe o liquidificador
+		6.11.2	pegue uma colher de sopa
+		6.11.3	pegue o fermento
+		6.11.4	adicione uma colheres de sopa fermento no liquidificador
+	6.12	Misture com uma espátula delicadamente
+		6.12.1	pegue uma espatula
+		6.12.2	utilize a espatula para misturar o fermento delicadamente com a massa batida no liquidificador
+	6.13	Unte a forma com a manteiga
+		6.13.1	pegue a forma alta
+		6.13.2	pegue uma colher de sopa
+		6.13.3	pegue o pote de manteiga
+		6.13.4	passe a manteiga da colher por toda a parte interna da forma alta
+	6.14	Despeje a massa na forma alta
+		6.14.1	pegue o copo do liquidificador
+		6.14.2	pegue a espatula
+		6.14.3	pegue a forma untada
+		6.14.4	vire o conteudo do copo de liquidificador na forma untada
+	6.15	Asse em forno médio (180 ºC) preaquecido por cerca de 40 minutos
+		6.15.1	pegue a forma untada já com a massa
+		6.15.2	abra o forno
+		6.15.3	coloque a forma alta dentro do forno
+		6.15.4	feche o forno
+		6.15.5	ajuste a temperatura do forno para médio (180 ºC)
+		6.15.6	aguarde 40 minutos
+		6.15.7	desligue o forno
+		6.15.8 	pegue as luvas para alta temperatuda
+		6.15.9 	abra o forno
+		6.15.10	utilizando as luvas retire a forna do forno e coloque sobre o fogão
+	6.16	Bolo pronto!!!
